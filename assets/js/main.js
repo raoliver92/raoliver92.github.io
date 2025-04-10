@@ -65,5 +65,6 @@ $(function () {
 	// WOW active
 	new WOW().init();
 
+
 });	
 
