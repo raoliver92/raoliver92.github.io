@@ -1033,6 +1033,13 @@ main .header.header-06 {
   }
 }
 
+main .header.header-06 .header-right h1 {
+  color: #fff;
+  font-size: 55px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 main .header.header-06 .header-right a {
   color: #fff;
   font-size: 20px;
